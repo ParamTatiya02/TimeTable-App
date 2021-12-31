@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/activity_day.xml" value="0.2" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/activity_faculty.xml" value="0.2477355072463768" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/activity_faculty_info.xml" value="0.25" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/activity_subject.xml" value="0.21510416666666668" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/activity_syllabus.xml" value="0.2477355072463768" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/activity_week.xml" value="0.25" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/day_activity_single_item.xml" value="0.536" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/faculty_activity_single_item.xml" value="0.6" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/main_activity_single_item.xml" value="0.1" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/subject_activity_single_item.xml" value="0.176" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/syllabus_activity_single_item.xml" value="0.1" />
+        <entry key="..\:/Kotlin/TimeTableApp/app/src/main/res/layout/week_activity_single_item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

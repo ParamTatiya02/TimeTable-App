@@ -1,0 +1,312 @@
+<resources>
+    <string name="app_name">Time Table App</string>
+
+    <string name="tvMain">TimeTable</string>
+    <string name="tvDescription">Description</string>
+    <string name="title1">Time Table</string>
+    <string name="description1">In this you can view your daily timetable</string>
+    <string name="title2">Subjects</string>
+    <string name="description2">In this you can view your subjects</string>
+    <string name="title3">Faculty</string>
+    <string name="description3">All the respective subject teachers</string>
+    <string name="title4">Resources</string>
+    <string name="description4">Resources to help you learn</string>
+    <string name="click">View More</string>
+
+    <string name="phone">Phone No</string>
+    <string name="email">Email Id</string>
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="subject">
+        <item>Database Management System</item>
+        <item>Theory of Computation</item>
+        <item>System Programming</item>
+        <item>Operating Systems</item>
+        <item>Computer Networks</item>
+        <item>Internet of Things</item>
+        <item>Distributed Systems</item>
+        <item>Human Computer Interface</item>
+        <item>Information Security</item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>Database Management System</item>
+        <item>Theory of Computation</item>
+        <item>Break</item>
+        <item>Distributed Systems</item>
+        <item>Break</item>
+        <item>System Programming</item>
+        <item>Human Computer Interface</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>Operating Systems</item>
+        <item>Internet of Things</item>
+        <item>Break</item>
+        <item>Computer Networks</item>
+        <item>Database Management System</item>
+        <item>Break</item>
+        <item>Distributed Systems</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>Internet of Things</item>
+        <item>Operating Systems</item>
+        <item>Break</item>
+        <item>System Programming</item>
+        <item>Computer Networks</item>
+        <item>Break</item>
+        <item>Information Security</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>Internet of Things</item>
+        <item>Information Security</item>
+        <item>Break</item>
+        <item>System Programming</item>
+        <item>Operating Systems</item>
+        <item>Break</item>
+        <item>Human Computer Interface</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>Information Security</item>
+        <item>Break</item>
+        <item>Database Management System</item>
+        <item>Computer Networks</item>
+        <item>Break</item>
+        <item>Human Computer Interface</item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>Self Study</item>
+        <item>Break</item>
+        <item>Self Study</item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 2:55PM</item>
+        <item>2:55PM - 4:45PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>8:55AM - 9:50AM</item>
+        <item>9:50AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>8:55AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 12:10PM</item>
+        <item>12:10PM - 1:05PM</item>
+        <item>1:05PM - 2:00PM</item>
+        <item>2:00PM - 3:50PM</item>
+    </string-array>
+
+    <string-array name="time6">
+        <item>8:55AM - 10:45AM</item>
+        <item>10:45AM - 11:15AM</item>
+        <item>11:15AM - 1:05PM</item>
+    </string-array>
+
+    <string-array name="TeacherName">
+        <item>N. F. Shaikh</item>
+        <item>R. A. Khan</item>
+        <item>S. K. Wagh</item>
+        <item>J. R. Pansare</item>
+        <item>R. M. Wahul</item>
+        <item>S. R. Khonde</item>
+    </string-array>
+
+    <string-array name="TeacherQuality">
+        <item>Head of Department</item>
+        <item>Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+    </string-array>
+
+    <string-array name="Shaikh">
+        <item>6434456347</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+
+    <string-array name="Khan">
+        <item>7841686162</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+
+    <string-array name="Wagh">
+        <item>7837527277</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+
+    <string-array name="Pansare">
+        <item>7737373777</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+
+    <string-array name="Wahul">
+        <item>7353745414</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+
+    <string-array name="Khonde">
+        <item>9644775377</item>
+        <item>xyz@gmail.com</item>
+    </string-array>
+
+    <string-array name="SP">
+        <item>Definition of a Project, Project versus Flow type work, Project Lifecycle, Processes and Knowledge Areas in Project Management (PM), Build or Buy decision, Work Breakdown Structure (WBS) and its types, Introduction to PMBOK, Program and Portfolio Management.</item>
+        <item>Project Planning: Steps for Project Planning, PERT and Gantt Charts, Gantt Project, Microsoft Project and Primavera Project Management Software, Objectives of Activity planning, Project Schedules, Activities, Sequencing and Scheduling, Network Planning Models, Formulating Network Model.</item>
+        <item>Objectives of Activity Planning, Project Schedules, Activities : Sequencing and Scheduling, Network Planning Models, Formulating Network Model, Activity relationships (FS,SF,SS,FF), Forward Pass and Backward Pass techniques, Critical Path concept and remedies</item>
+        <item>Introduction, Collection of Project data, Visualizing progress, Cost monitoring, Earned Value Analysis, Project tracking, Change Control, Software Configuration Management, Managing contracts, Contract Management.</item>
+        <item>Predictive versus Empirical Management, Comparison between Non-Agile and Agile Project, Three stages of Agile Project, Estimation, Scope Management, Roles and Responsibilities, Scheduling and Tracking</item>
+        <item>Managing People, Organizational behaviour, Best methods of Staff Selection, Motivation, The Oldham, Hackman job characteristic Model, Stress, Health and Safety, Ethical and Professional concerns, Working in Teams, Decision Making, Organizational structures, Dispersed and Virtual Teams, Communications Genres, Communication Plans</item>
+        <item>1. Bob Hughes, Mike Cotterell and Rajib Mall, Software Project Management – Fifth Edition, Tata McGraw Hill, New Delhi, 2012.
+2. Robert K. Wysocki, Effective Software Project Management – Wiley Publication, 2011.</item>
+    </string-array>
+
+    <string-array name="DBMS">
+        <item>Introduction, Purpose of Database Systems, Database-System Applications, View of Data, Database Languages, Database System Structure, Data Models, Database Design and ER Model: Entity, Attributes, Relationships, Constraints, Keys, Design Process, Entity-Relationship Model, ER Diagram, Design Issues, Extended E-R Features, converting E-R and EER diagram into tables.</item>
+        <item>SQL: Characteristics and advantages, SQL Data Types and Literals, DDL, DML, DCL, TCL, SQL Operators, Tables: Creating, Modifying, Deleting, Updating, SQL DML Queries: SELECT Query and clauses, Index and Sequence in SQL, Views: Creating, Dropping, Updating using Indexes, Set Operations, Predicates and Joins, Set membership, Tuple Variables, Set comparison, Ordering of Tuples, Aggregate Functions, SQL Functions, Nested Queries, PL/SQL: Concept of Stored Procedures and Functions, Cursors, Triggers, Assertions, Roles and Privileges</item>
+        <item>Relational Model: Basic concepts, Attributes and Domains, CODDs Rules, Relational Integrity: Domain, Referential Integrities, Enterprise Constraints, Database Design: Features of Good Relational Designs, Normalization, Atomic Domains and First Normal Form, Decomposition using Functional Dependencies, Algorithms for Decomposition, 2NF, 3NF, BCNF.</item>
+        <item>Transaction concept, Transaction states, ACID properties, Concept of Schedule, Serial Schedule, Serializability: Conflict and View, Cascaded Aborts, Recoverable and Non-recoverable Schedules, Concurrency Control: Lock-based, Time-stamp based Deadlock handling, Recovery methods: Shadow-Paging and Log-Based Recovery, Checkpoints.</item>
+        <item>NoSQL Database : Introduction, Need, Features, Types of NoSQL Databases: Key-value store, document store, graph, wide column stores; BASE Properties, Data Consistency model ACID Vs BASE, Comparative study of RDBMS and NoSQL, MongoDB (with syntax and usage): CRUD Operations, Indexing, Aggregation, MapReduce, Replication, Sharding.</item>
+        <item>Complex Data Types: Semi-Structured Data: Features of Semi-Structured Data Models, Nested Data Types: JSON, XML, Object Orientation: Object-Relational Database System, Table Inheritance, Object-Relational Mapping, Spatial Data: Geographic Data, Geometric Data.</item>
+        <item>1. Silberschatz A., Korth H., Sudarshan S., "Database System Concepts", McGraw Hill
+Publishers, ISBN 0-07-120413-X, 6th edition
+2. Connally T, Begg C., "Database Systems", Pearson Education, ISBN 81-7808-861-4
+3. Pramod J. Sadalage and Martin Fowler, ―NoSQL Distilled, Addison Wesley, ISBN-
+10: 0321826620, ISBN-13: 978-0321826626</item>
+    </string-array>
+
+    <string-array name="TOC">
+        <item>inite Automata (FA): An informal picture of FA, Finite State Machine (FSM), Language accepted by FA, Definition of Regular Language.FA without output: Deterministic and Nondeterministic FA (DFA and NFA), epsilon- NFA and inter-conversion. Minimization of DFAs.</item>
+        <item>Introduction, Operators of RE, Precedence of operators, Algebraic laws for RE, Language to Regular Expressions, Equivalence of two REs, Conversions: RE to NFA, DFA, DFA to RE using Arden’s theorem, Pumping Lemma for Regular languages, Closure and Decision properties of Regular languages. Myhill-Nerode theorem.</item>
+        <item>Basic Elements of Grammar, Formal Definition of Context Free Grammar, Sentential form, Derivation and Derivation Tree/ Parse Tree, Context Free Language (CFL), Ambiguous Grammar, writing grammar for language,</item>
+        <item>Introduction, Formal definition of PDA, Equivalence of Acceptance by Final State and Empty stack, Non-deterministic PDA (NPDA), PDA and Context Free Language, Equivalence of PDA and CFG, PDA vs CFLs. Deterministic CFLs.</item>
+        <item>Turing Machine Model, Formal definition of Turing Machines, Language Acceptability by Turing Machines, Design of TM, Description of TM, Techniques for TM Construction, Computing function with Turing Machine, Variants of Turing Machines, Halting Problem of TM, Halting vs Looping, A Turing-unrecognizable language, Reducibility, Recursion Theorem.</item>
+        <item>Computability Theory: Decidable problems and Un-decidable Problems, Church-Turing Thesis,Reducibility: Un-decidable Problems that is recursively enumerable, A Simple Un-decidable</item>
+        <item>1. John E. Hopcroft, Rajeev Motwani, Jeffrey D.Ullman,“Introduction to Automata Theory Languagesand Computation”,Addison-Wesley,ISBN 0-201-44124-1
+2. John Martin, “Introduction to Languages andThe Theory of Computation”, 2nd Edition, McGrawHill Education, ISBN-13: 978-1-25-900558-9, ISBN-10: 1-25-900558-5</item>
+    </string-array>
+
+    <string-array name="OS">
+        <item>Introduction to Systems Programming, Need of systems programming, Software, Software Hierarchy, Types of software: System s/w and Application s/w, Machine structure, Evolution of components of systems programming: Text Editors, Assembler, Macros, Compiler, Interpreter, Loader, Linker, Debugger, Device Drivers, Operating System.</item>
+        <item>Features of a Macro facility: Macro instruction arguments, Conditional Macro expansion, Macro calls within Macros, Macro instructions, defining Macro, Design of Two pass Macro Processor, Concept of single pass Macro Processor</item>
+        <item>Introduction, Loader schemes: Compile and go, General Loader Scheme, Absolute loaders, Subroutine linkages, Relocating loaders, Direct linking loaders, Overlay structure. Design of an Absolute loader, Design of Direct linking loader, Self-relocating programs, Static and Dynamic linking.</item>
+        <item>Introduction, Phases of Compiler, Comparison of Compiler and Interpreter. Role of Lexical Analysis - Token, Patterns, Lexemes and Lexical Errors. Specification of Tokens: Regular Expressions, Regular definitions, Examples. Recognition of Tokens: Transition diagram, Recognition of reserved words and identifiers. Introduction to LEX and YACC Tools</item>
+        <item>Process Synchronization and Communication: Principles of Concurrency, Mutual Exclusion- Semaphores. Process Scheduling: Uni-processor Scheduling, Preemptive Scheduling, Non preemptive Scheduling, Long-term, Medium-term, Short term scheduling. Scheduling Algorithms: First Come First Serve (FCFS), Shortest Job First (SJF), Round Robin (RR), Priority.</item>
+        <item>Introduction: Memory Management concepts, Memory Management requirements. Memory Partitioning: Fixed Partitioning, Dynamic Partitioning, Buddy Systems Fragmentation, Paging, Segmentation, Address translation. Placement Strategies: First Fit, Best Fit, Next Fit and Worst Fit.</item>
+        <item>1. Systems Programming by John J Donovan (McGraw-Hill Education)
+2. System Programming by D M Dhamdhere McGraw Hill Publication
+3. Operating Systems Concepts, Silberschatz A., Galvin P., Gagne G, VIII th Edition Wiley</item>
+    </string-array>
+
+    <string-array name="CN">
+        <item>Definition, Types of Networks: Local area networks (LAN), Metropolitan area networks (MAN), Wide area networks (WAN), Wireless networks, Networks Software, Protocol, Design issues for the Network layers, Network Models: The OSI Reference Model, TCP/IP Model, Network Topologies.</item>
+        <item>Introduction, functions, Design Issues: Services to Network Layer, Framing, ARQ strategies: Error Detection and correction, Parity Bits, Hamming Codes (11/12-bits) and CRC. Flow Control Protocols: Unrestricted Simplex, Stop and Wait, Sliding Window Protocol, WAN Connectivity:</item>
+        <item>Introduction: Functions of Network layer, Switching Techniques: Circuit switching, Message Switching, Packet Switching, IP Protocol: Classes of IP (Network addressing), IPv4 , IPv6, Network Address Translation, Sub-netting , CIDR. Network layer Protocols : ARP, RARP, ICMP, IGMP</item>
+        <item>Process to Process Delivery, Services, Socket Programming, Elements of Transport Protocols: Addressing, Connection establishment, Connection release, Flow control and buffering, Multiplexing, Congestion Control,</item>
+        <item>Process to Process Delivery, Services, Socket Programming, Elements of Transport Protocols: Addressing, Connection establishment, Connection release, Flow control and buffering, Multiplexing, Congestion Control,</item>
+        <item>Security in Network, Transport and Application: Introduction of IPSec, SSL, HTTPS, S/MIME, Overview of IDS and Firewalls.</item>
+        <item>1. Fourauzan B.,"Data Communications and Networking", 5th Edition, Tata McGraw-Hill,Publications, ISBN:0–07 – 058408 – 7
+2. Andrew S. Tanenbaum, Computer Networks, 5th Edition, Pearson India, 2012.</item>
+    </string-array>
+
+    <string-array name="IoT">
+        <item>Definition, Characteristics of Embedded System, Real time systems, Real time tasks, Processor basics: General Processors in Computer Vs Embedded Processors, Microcontrollers, Microcontroller Properties, Components of Microcontrollers, System-On-Chip and its examples, Components of Embedded Systems, Introduction to embedded processor.</item>
+        <item>Introduction to Internet of Things (IoT): Definition, Characteristics of IoT, Vision, Trends in Adoption of IoT, IoT Devices, IoT Devices Vs Computers, Societal Benefits of IoT, Technical Building Blocks. Physical Design of IoT: Things in IoT, Interoperability of IoT Devices, Sensors and Actuators , Need of Analog / Digital Conversion,</item>
+        <item>IoT Design Methodology: steps, Basics of IoT Networking, Networking Components, Internet Structure, Connectivity Technologies ,IoT communication models and IoT Communication APIs,Sensor Networks, Four pillars of IoT (M2M, SCADA, WSN, DCM),</item>
+        <item>Protocol Standardization for IoT, M2M and WSN Protocols, RFID Protocol, Modbus Protocol, Zigbee Architecture, IP based Protocols: MQTT (Secure), 6LoWPAN, LoRa.</item>
+        <item>Software Defined Networking, Introduction to Cloud Storage Models, Communication API, WAMP: AutoBahn for IoT, Xively Cloud for IoT, Python Web Application Framework: Django Architecture and application development with Django, Amazon Web Services for IoT, SkyNet IoT Messaging Platform, RESTful Web Service, GRPC,SOAP.</item>
+        <item>Introduction, Vulnerabilities of IoT, Security Requirements, Challenges for Secure IoT, Threat Modelin. Key elements of IoT Security: Identity establishment, Access control, Data and message security, Non-repudiation and availability, Security model for IoT, Challenges in designing IOT applications, lightweight cryptography</item>
+        <item>1. Arshdeep Bahga, Vijay Madisetti, ―Internet of Things – A hands-on approach‖, Universities Press, ISBN: 0: 0996025510, 13: 978-0996025515
+2. Olivier Hersent, David Boswarthick, Omar Elloumi, The Internet of Things: Key Applications and Protocols, 2nd Edition,Wiley Publication,ISBN: 978-1-119-99435-0</item>
+    </string-array>
+
+    <string-array name="DS">
+        <item>Defining Distributed System, Characteristics, Middleware and Distributed System, Design goals- Supporting resource sharing, Making distribution transparent, Open, Scalable, Pitfalls, Types of Distributed Systems : High Performance Distributed Computing, Distributed Information Systems, Pervasive Systems,</item>
+        <item>Introduction – Layered Protocols, Types of Communication, Remote Procedural Call- Basic RPC Operation, Parameter Passing, RPC-based application support, Variations on RPC, Example: DCE RPC, Remote Method Invocation, Message Oriented Communication : Simple Transient Messaging with Sockets, Advanced Transient Messaging,</item>
+        <item>Clock Synchronization : Physical Clocks, Clock Synchronization Algorithms, Logical Clocks – Lamport’s Logical clocks, Vector Clocks, Mutual Exclusion: Overview, Centralized Algorithm, Distributed Algorithm, Token-Ring Algorithm, Decentralized Algorithm, Election Algorithms: Bully Algorithm, Ring Algorithm, Location Systems- GPS, Logical Positioning of nodes,</item>
+        <item>Names, Identifiers, and Addresses, Flat Naming, Structured Naming, Attributed Based Naming, Introduction to Distributed File Systems, File Service Architecture, Case study: Sun Network file System, Andrew File System</item>
+        <item>Introduction : Reasons for Replication, Replication as Scaling Technique, Data-Centric Consistency Models: Continuous Consistency, Consistent Ordering of Operations, Client-Centric Consistency Models: Eventual Consistency, Monotonic Reads, Monotonic Writes, Read Your Writes, Writes Follow Reads,</item>
+        <item>Introduction to Fault Tolerance : Basic Concepts, Failure Models, Failure Masking by Redundancy, Process Resilience : Resilience by Process Groups, Failure Masking and Replication, Example: Paxos, Consensus in faulty systems with crash failures, some limitations on realizing Fault Tolerant tolerance, Failure Detection,</item>
+        <item>. Maarten van Steen, Andrew S. Tanenbaum, Distributed system, Third edition, version 3
+2. George Coulouris, Jean Dollimore, Tim Kindberg, “Distributed Systems Concepts and Design”, Fifth edition</item>
+    </string-array>
+    <string-array name="HCI">
+        <item>oundations-Human Memory, Thinking: reasoning and problem solving, Emotion, Individual Difference, Psychology and design of Interactive systems, The Computer-Text Entry Device, Positioning, pointing ,Display devices, Devices for virtual reality and 3D Interaction,</item>
+        <item>Know your user/client- Understanding how people interact with computers, Important human characteristics in Design, Human considerations in design of Business systems, Human Interaction speeds, Performance versus Preference, Methods of gaining an understanding of users. Miller’s Law.</item>
+        <item>Design, Process of Interaction Design, Interaction styles-Command line, Menu Selection, Form fill-in, Direct Manipulation. Graphical User Interface-Popularity of Graphics, Concept of direct manipulation, Advantages, Disadvantages and characteristics of Graphical user interface. Web User Interface-</item>
+        <item>User interface design process- Designing for People: Seven commandments, Usability Assessment in the Design process, Common Usability problems, Practical and Objective measures of Usability. Formative and Summative evaluation, Usability specifications for evaluation, Analytic methods, Model based analysis, GOMS model, Empirical methods, Field studies, Usability testing in Laboratory, Controlled experiments. Heuristic Evaluation, Cognitive Walkthrough.</item>
+        <item>Paradigms for Interaction- Time sharing, Video display units, Programming toolkits, Personal computing, the metaphor, Direct manipulation, Hypertext, Computer-supported cooperative work, Agent based interfaces, Ubiquitous Computing- Sensor-based and context-aware interaction</item>
+        <item>Designing for Mobile and other devices- Anatomy of a Mobile app, Mobile form factors, Handheld format apps, Tablet format apps, Mini-tablet format apps, Mobile Navigation, content, and control idioms- browse controls, Navigation and toolbars, Drawers, Tap-to-reveal and direct manipulation, Searching, Sorting and Filtering,</item>
+        <item>1. Alan J, Dix. Janet Finlay, Rusell Beale, “Human Computer Interaction”, Pearson Education, 3rd Edition, 2004, ISBN 81-297-0409-9.
+2. Jenny Preece, Rogers, Sharp, “Interaction Design-beyond human-computer interaction”, WILEY-INDIA, ISBN 81-265-0393-9.
+3. Ben Shneiderman, Catherine Plaisant, Maxine Cohen, Steven Jacobs, “Designing the User Interface: Strategies for Effective Human- Computer Interaction”, 6th Edition,Pearson Education Limited. ISBN 987-1-292-03701-1.</item>
+    </string-array>
+
+    <string-array name="IS">
+        <item>Foundations of Security, Computer Security Concepts, The OSI Security Architecture, Security attacks, Security services, Security mechanism, A Model for Network Security</item>
+        <item>Classical Encryption Techniques : Stream Ciphers, Substitution Techniques- Caeser Cipher, Monoalphabetic Ciphers, Playfair Cipher, Hill Cipher, Polyalphabetic Ciphers, Transposition Techniques, Block Ciphers and Data Encryption standards, 3DES, Advanced Encryption standard</item>
+        <item>Number theory – Prime number, Fermat and Euler theorems , Testing for primality, Chinese reminder theorem, discrete logarithm, Public Key Cryptography and RSA, Diffie-Hellman key exchange, Elgamal algorithm, Elliptic Curve Cryptography</item>
+        <item>Cryptographic Hash Functions- Applications of Cryptographic Hash Functions, Two Simple Hash Functions, Requirements and Security, Hash Functions Based on Cipher Block Chaining, Secure Hash Algorithm (SHA), SHA-3, MD4, MD5, Message Authentication Codes</item>
+        <item>The OSI Security architecture, Access Control, Flooding attacks, DOS, Distributed DOS attacks Intrusion detection, Host based and network based Honeypot, Firewall and Intrusion prevention system, Need of firewall, Firewall characteristics and access policy, Types of Firewall, DMZ networks,</item>
+        <item>Introduction, Cybercrime and Information Security, Classification of Cybercrimes, The legal perspectives-Indian perspective, Global perspective, Categories of Cybercrime, Social Engineering, Cyber stalking, Proxy servers and Anonymizers,</item>
+        <item>1. William Stallings, Lawrie Brown, “Computer Security Principles and Practice”, 3rd_Edition, Pearson
+2. William Stallings, “Cryptography and Network Security Principals and Practice”, Fifth edition, Pearson
+3. Nina Godbole, Sunit Belapure, “Cyber Security”, Wiley, ISBN: 978-81-265-2179-1</item>
+    </string-array>
+
+    <string-array name="Units">
+        <item>Unit 1</item>
+        <item>Unit 2</item>
+        <item>Unit 3</item>
+        <item>Unit 4</item>
+        <item>Unit 5</item>
+        <item>Unit 6</item>
+        <item>Reference Books</item>
+    </string-array>
+
+</resources>
